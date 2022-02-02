@@ -7,9 +7,7 @@ Cari Bucinbot adalah sebuah bot yang mirip sekali dengan anonymous , Dan kalian 
 Gabung grup chat kami [Teman Online](https://t.me/GabutIsUsOfficial)
 Official kami [Cari Bucinbot Official](https://t.me/Userbot7STAR)
 
-<b>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mocpi07/CaribucinOnline)
-</b>
 
 ### Perintah UNTUK [@botfather](https://t.me/botfather)
 ```
