@@ -8,7 +8,7 @@ Gabung grup chat kami [Teman Online](https://t.me/GabutIsUsOfficial)
 Official kami [Cari Bucinbot Official](https://t.me/Userbot7STAR)
 
 <b>
-<a href="https://heroku.com/deploy?template=https://github.com/apisuserbot/Project-Bot"><img src="https://img.shields.io/badge/Deploy Project-Bot-blue?style=badge&logo=heroku"width="310" height="50"/></a>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mocpi07/CaribucinOnline)
 </b>
 
 ### Perintah UNTUK [@botfather](https://t.me/botfather)
