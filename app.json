@@ -1,13 +1,13 @@
 {
-  "name": "Project-Bot",
+  "name": "CariBucinbot",
   "description": "Bot anonymous chat telegram.",
-  "repository": "https://github.com/apisuserbot/Project-Bot",
-  "logo": "https://telegra.ph/file/f9edcf0f82516206171d9.jpg",
-  "keywords": ["Project-Bot", "telegram", "python"],
+  "repository": "https://github.com/mocpi07/CaribucinOnline",
+  "logo": "https://telegra.ph//file/b263d1cfdc81958a4d7a5.jpg",
+  "keywords": ["CaribucinOnline", "telegram", "python"],
   "env": {
     "ADMIN": {
       "description": "Isi dengan id admin",
-      "value": ""
+      "value": "@xycye"
     },
     "HEROKU_APP_NAME": {
       "description": "Nama App heroku, Nama App yang paling pertama di isi (liat paling atas)",
@@ -19,11 +19,11 @@
     },
     "OWNER": {
       "description": "Isi dengan username kalian tanpa tanda @",
-      "value": ""
+      "value": "xycye"
     },
     "INSTAGRAM": {
-      "description": "Isi nama instagram kalian dengan contoh (apis_goodboy)",
-      "value": ""
+      "description": "Isi nama instagram kalian dengan contoh (_mocpi)",
+      "value": "_mocpi"
     },
     "DONASI": {
       "description": "Isi link donasi kalian tanpa tanpa harus 'https://' Contoh (saweria.co/DonasiDeveloper)",
@@ -33,22 +33,22 @@
     "GROUP_SUPPORT": {
       "description": "Bikin Sebuah Group Support Untuk Chat Tanpa Harus Menggunakan @ (kalo gak di rubah gapapa)",
       "required": false,
-      "value": "project_to_chat"
+      "value": "GabutIsUsOfficial"
     },
     "GROUP_CHAT": {
       "description": "Isi dengan username group kalian tanpa tanda @ (kalo gak di rubah gapapa)",
       "required": false,
-      "value": "Cari_Teman_Online_Group"
+      "value": "GabutIsUsOfficial"
     },
     "PROJECT_NAME": {
       "description": "Isi dengan nama project bot kalian",
       "required": false,
-      "value": "PROJECT BOT"
+      "value": "CariBucinbot"
     },
     "CHANNEL": {
       "description": "Isi dengan username channel kalian tanpa tanda @ (kalo gak di rubah gapapa)",
       "required": false,
-      "value": "Quotes_Channel_Official"
+      "value": "Userbot7STAR"
     }
   }
 }
